@@ -1,11 +1,14 @@
 package aplication;
 
+import tabuleiro.Posicao;
+
 public class Program {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Heloo word");
-		// TODO Auto-generated method stub
+		Posicao p1 = new Posicao(3, 5);
+		
+		System.out.println(p1);
 
 	}
 
