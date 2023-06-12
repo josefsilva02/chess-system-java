@@ -1,6 +1,6 @@
 package aplication;
 
-import tabuleiro.Posicao;
+import jogoTabuleiro.Posicao;
 
 public class Program {
 
